@@ -1,0 +1,10 @@
+
+#rule to avoid non-official apps going into git
+#see apps/.gitignore
+apps/*
+
+# Some general ignore patterns
+
+.svn/
+*~
+some-wrong-file.*

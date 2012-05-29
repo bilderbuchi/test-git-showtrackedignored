@@ -1,0 +1,5 @@
+# devApps is the only official directory
+!devApps/
+
+# don't ignore the .gitignore file
+!.gitignore
